@@ -6,5 +6,5 @@ Second Line as well
 
 Checking the Diff command
 
-Checking feature Y
-Checking feature Z
+Checking feature E
+Checking feature F
