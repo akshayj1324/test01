@@ -7,3 +7,4 @@ Second Line as well
 Checking the Diff command
 
 Checking feature B
+Checking feature C
