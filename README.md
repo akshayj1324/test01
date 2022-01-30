@@ -6,4 +6,4 @@ Second Line as well
 
 Checking the Diff command
 
-Checking feature C
+Checking feature D
